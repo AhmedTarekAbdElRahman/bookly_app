@@ -1,6 +1,5 @@
 import 'package:bookly/Feature/Home/data/model/book_model/access_info.dart';
 import 'package:bookly/Feature/Home/data/model/book_model/sale_info.dart';
-
 import 'volume_info.dart';
 
 class BookModel {
